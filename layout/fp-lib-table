@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cflipclock_rev_a)(type KiCad)(uri "$(KIPRJMOD)/cflipclock_rev_a.pretty")(options "")(descr ""))
+)

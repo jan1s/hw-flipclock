@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name cflipclock_rev_a-eagle-import)(type Legacy)(uri ${KIPRJMOD}/cflipclock_rev_a-eagle-import.lib)(options "")(descr ""))
+  (lib (name cflipclock_rev_a-rescue)(type Legacy)(uri ${KIPRJMOD}/cflipclock_rev_a-rescue.lib)(options "")(descr ""))
+)
